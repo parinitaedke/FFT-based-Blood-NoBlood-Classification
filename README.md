@@ -1,4 +1,4 @@
-# FFT_based_Blood_NoBlood_Classification
+# FFT-based-Blood-NoBlood-Classification
 
 ## Author: Parinita Edke - ROP 2020-2021
 
